@@ -2,6 +2,22 @@ img {
     width: 300px;
 }
 
-p {
+p, li {
     width: 60%;
+}
+
+.recipe-link {
+    margin-right: 20px;
+    margin-top: 20px;
+}
+
+.odin-recipes {
+    display: block;
+    height: 100px;
+    width: 600px;
+    margin: -8px;
+}
+
+body, .odin-recipes {
+    background-color: #13eca6;
 }
