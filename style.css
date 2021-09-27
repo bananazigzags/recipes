@@ -18,6 +18,13 @@ p, li {
     margin: -8px;
 }
 
+.top-banner {
+    display: block;
+    height: 50px;
+    width: 300px;
+    margin: -8px;
+}
+
 body, .odin-recipes {
     background-color: #13eca6;
 }
